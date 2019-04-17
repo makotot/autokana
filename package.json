@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/harisenbon/autokana/issues"
   },
-  "homepage": "https://github.com/harisenbon/autokana#readme"
+  "homepage": "https://github.com/harisenbon/autokana#readme",
+  "dependencies": {
+    "jquery": "^3.4.0"
+  }
 }
