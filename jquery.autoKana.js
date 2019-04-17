@@ -22,6 +22,7 @@
 // OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 // WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+// ref: https://gist.github.com/samelwitt/3d9d67898a7f357f1a5833b7b8199ff8
 import jQuery from 'jquery';
 
 export default function (element1, element2, passedOptions) {
